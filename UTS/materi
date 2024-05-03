@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Web | Portofolio</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="sidebar">
+        <nav>
+          <ul>
+            <li class="nav-item">
+                <a class="nav-link active" href="home.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="about.html">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="my skill.html">Skill Saya</a>
+              </li>
+            <li class="nav-item">
+                <a class="nav-link active" href="prodi.html">Prodi</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="jadwal kuliah.html">Jadwal</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="materi.html">Materi</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="projek kuliah.html">Projek</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="hobi.html">Hobi</a>
+              </li>
+          </ul>
+        </nav>
+      </div>
+      <main class="content">
+        <section class="hero">
+          <img src="itbss.png"/>
+          <div class="hero-content">
+            <title>Materi</title>
+            <h1>Institut Teknologi & Bisnis Sabda Setia</h1>
+            <br />
+            <h2>Bisnis Digital</h2>
+            <p>Senin</p>
+            <p>Selasa</p>
+            <p>Rabu</p>
+            <p>Kamis</p>
+            <p>Jumat</p>
+            <p></p>
+            <h2>Sistem Teknologi Informasi Sore</h2>
+            <p>Senin</p>
+            <p>Selasa</p>
+            <p>Rabu</p>
+            <p>Kamis</p>
+            <p>Jumat</p>
+            <h2>Kewirausahaan</h2>
+            <p>Senin</p>
+            <p>Selasa</p>
+            <p>Rabu</p>
+            <p>Kamis</p>
+            <P>Jumat</P>
+            <br /><br />
+            <a href="materi.html" class="action-btn">Next</a>
+          </div>
+        </section>
+      </main>
+      <div class="footer">
+        <footer>
+          <ul>
+            <li>
+            <td><tr> <img src="Instagram1.png"/><a><p>Instagram</p></a></td></tr>
+            </li>
+            <li>
+            <td><tr> <img src="WAAA.png"/><a><p>Whatsapp</p></a></td></tr>
+            </li>
+            <li>
+            <td><tr> <img src="facebook.png"/><a><p>Facebook</p></a></td></tr>
+            </li>
+            <li>
+            <td><tr> <img src="tiktok.png"/><a><p>Tiktok</p></a></td></tr>
+            </li>
+          </ul>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
